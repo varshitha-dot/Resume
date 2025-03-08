@@ -1,0 +1,22 @@
+.resume-container{
+    text-align: center;
+    background-color: rgb(209, 211, 213);
+}
+.sidebar img{
+    border-radius: 70px;
+
+}
+.skills {
+    list-style-type: none; 
+    padding: 0;
+}
+
+.skills li {
+    display: inline-block; 
+    background: #96b8d6; 
+    color: white;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px; 
+    font-size: 14px;
+}
